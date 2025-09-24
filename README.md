@@ -1,4 +1,4 @@
-# 🎲 Sorteador de Nombres
+# 🎲 Challenge_Amigo_Secreto
 
 Aplicación web sencilla para ingresar una lista de nombres y realizar
 sorteos de manera rápida y visual.
