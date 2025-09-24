@@ -11,10 +11,10 @@ sorteos de manera rápida y visual.
 
 ## 📷 Vista previa
 
-![Preview de la app](ruta/a/tu/captura.png)\
-*(Reemplaza la ruta por tu propia imagen o screenshot del proyecto)*
+[capture_20250923202800509.bmp](https://github.com/user-attachments/files/22504879/capture_20250923202800509.bmp)
 
 ## 🛠️ Tecnologías utilizadas
+
 
 -   **HTML5**\
 -   **CSS3**\
