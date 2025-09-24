@@ -32,9 +32,9 @@ sorteos de manera rápida y visual.
 
 3.  Ingresa los nombres en el campo de texto.\
 
-4.  Presiona **Agregar** para llenar la lista.\
+4.  Presiona **Añadir** para llenar la lista.\
 
-5.  Haz clic en **Sortear** para elegir un nombre al azar.\
+5.  Haz clic en **Sortear Amigo** para elegir un nombre al azar.\
 
 6.  Usa el botón **Reiniciar lista** 🔄 para limpiar todo.
 
