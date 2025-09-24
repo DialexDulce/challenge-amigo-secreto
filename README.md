@@ -57,4 +57,4 @@ sorteos de manera rápida y visual.
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado por [Tu Nombre](https://github.com/tu-usuario).
+Proyecto desarrollado por [DialexDulce](https://github.com/DialexDulce).
